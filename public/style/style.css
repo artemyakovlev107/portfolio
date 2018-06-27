@@ -2,13 +2,13 @@
 /* BODY */
 @font-face {
   font-family: 'Raleway';
-  src: url("https://findmatthew.com/style/../fonts/Raleway-Regular.ttf"); }
+  src: url("../fonts/Raleway-Regular.ttf"); }
 @font-face {
   font-family: 'Raleway-semibold';
-  src: url("https://findmatthew.com/style/../fonts/Raleway-SemiBold.ttf"); }
+  src: url("../fonts/Raleway-SemiBold.ttf"); }
 @font-face {
   font-family: 'Raleway-bold';
-  src: url("https://findmatthew.com/style/../fonts/Raleway-Bold.ttf"); }
+  src: url("../fonts/Raleway-Bold.ttf"); }
 @keyframes fadeIn {
   100% {
     opacity: 1; } }
@@ -572,17 +572,17 @@ section {
           background: #E31B6D;
           color: #fff; }
         section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-1.jpg") center center/cover; }
+          background: url("../img/preview-1.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-2.jpg") center center/cover; }
+          background: url("../img/preview-2.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-3.jpg") center center/cover; }
+          background: url("../img/preview-3.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-4.jpg") center center/cover; }
+          background: url("../img/preview-4.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-5.jpg") center center/cover; }
+          background: url("../img/preview-5.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-6.jpg") center center/cover; }
+          background: url("../img/preview-6.jpg.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
           background: url("https://findmatthew.com/style/../img/thumb-7.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
