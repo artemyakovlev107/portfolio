@@ -12,7 +12,7 @@ class App extends Component {
             <p>{this.props.comment}</p>
           </div>
 
-          <div className="button page-link" dest="about">View my work <i className="mdi mdi-arrow-right"></i></div>
+          <div className="button page-link" dest="about">View my work <i class="fas fa-arrow-right"></i></div>
           <nav className="flex">
             <div className="link-wrap">
               <div className="active page-link" dest="home">home</div>
