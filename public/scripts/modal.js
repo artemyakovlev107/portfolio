@@ -6,7 +6,7 @@ $(document).ready(function(){
         title: 'Roambi.com',
         tag: 'BUSINESS ANALYTICS.',
         detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-        link: 'http://www.roambi.com'
+        link: 'https://www.roambi.com'
       },
       walker: {
         title: 'WalkerTracker',
@@ -17,7 +17,7 @@ $(document).ready(function(){
         title: 'Powur.com',
         tag: 'MULTI-LEVEL MARKETING.',
         detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-        link: 'http://www.powur.com/with/42'
+        link: 'https://www.powur.com/with/42'
       },
       mystand: {
         title: 'MyStand',
