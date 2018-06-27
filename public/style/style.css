@@ -239,7 +239,7 @@ nav {
         padding: 25px 20px 12px 20px; }
       nav .link-wrap div:hover {
         color: #E31B6D; }
-  nav .mdi-menu {
+  nav .fa-bars{
     position: absolute;
     right: 5vw;
     margin: auto 0;
@@ -843,7 +843,7 @@ footer {
       display: inline; }
       nav .link-wrap div:first-child {
         padding: 0; }
-  nav .mdi-menu {
+  nav .fa-bars{
     display: none; }
 
   section {
