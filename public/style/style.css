@@ -732,7 +732,7 @@ footer {
   background: #1B242F;
   padding: 70px 0 50px 0;
   position: relative; }
-  footer .mdi-chevron-double-up {
+  footer .fa-chevron-up{
     position: absolute;
     top: -25px;
     background: #E31B6D;
@@ -743,7 +743,7 @@ footer {
     margin: 0 auto;
     cursor: pointer;
     transition: background .5s; }
-    footer .mdi-chevron-double-up:hover {
+    footer .fa-chevron-up:hover {
       background: #fb1f79; }
   footer .icon-wrap .icon {
     overflow: hidden;
@@ -759,7 +759,7 @@ footer {
   footer .icon-wrap .mdi {
     text-align: center;
     color: #fff; }
-    footer .icon-wrap .mdi.mdi-codepen {
+    footer .icon-wrap .mdi.fa-codepen {
       font-size: 20pt; }
   footer .icon-wrap .icon:hover {
     background: #04C2C9;
