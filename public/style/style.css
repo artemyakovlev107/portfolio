@@ -272,7 +272,7 @@ nav {
   flex-direction: column;
   justify-content: center; }
 
-.mdi-chevron-left, .mdi-chevron-right {
+.fa-chevron-left, .fa-chevron-right {
   cursor: pointer;
   position: absolute;
   bottom: 0;
@@ -283,10 +283,10 @@ nav {
   font-weight: bold;
   color: #fff; }
 
-.mdi-chevron-left {
+.fa-chevron-left{
   left: 0; }
 
-.mdi-chevron-right {
+.fa-chevron-right{
   right: 0; }
 
 .transition {
@@ -348,7 +348,7 @@ nav {
     font-size: 9pt;
     line-height: 14pt;
     margin-top: 13px; }
-  .modal-wrap .mdi-open-in-new {
+  .modal-wrap .fa-external-link-alt {
     position: relative;
     left: -10px;
     font-size: 11pt; }
@@ -806,7 +806,7 @@ footer {
   .slide, .carousel-wrap {
     height: 450px; }
 
-  .mdi-chevron-left, .mdi-chevron-right {
+  .fa-chevron-left, .fa-chevron-right {
     font-size: 25pt !important; }
 
   .modal-wrap .modal {
