@@ -85,7 +85,7 @@ $(function() {
       }, 400);
     });
   
-    $('.fa-bars).click(function() {
+    $('.mdi-menu').click(function() {
       $('.link-wrap').toggleClass('visible1');
     });
   

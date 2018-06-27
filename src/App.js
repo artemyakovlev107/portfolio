@@ -21,8 +21,7 @@ class App extends Component {
               <div className="page-link" dest="blog">my life</div>
               <div className="page-link" dest="contact">contact</div>
             </div>
-            // <i className="mdi mdi-menu"></i>
-            <i class="fas fa-bars"></i>
+              <i class="fas fa-bars mdi-menu"></i>
           </nav>
         </div>
      );
