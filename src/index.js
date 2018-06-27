@@ -28,6 +28,10 @@ const skilldetail = [
         level:"75%"
     }, 
     {
+        name:"Laravel",
+        level:"82%"
+    }, 
+    {
         name:"Node.js",
         level:"70%"
     }, 
@@ -46,10 +50,6 @@ const skilldetail = [
     {
         name:"WordPress",
         level:"79%"
-    }, 
-    {
-        name:"Design",
-        level:"74%"
     }, 
     {
         name:"Bootstrap",
