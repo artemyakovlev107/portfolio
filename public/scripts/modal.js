@@ -22,7 +22,7 @@ $(document).ready(function(){
       mystand: {
         title: 'MyStand',
         tag: 'CROWD-FUNDED CHARITY.',
-        detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+        detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with React.js. Features social media sharing and large scale crowd-funding.',
       },
       never: {
         title: 'NeverSurrender',
@@ -32,7 +32,7 @@ $(document).ready(function(){
       themall: {
         title: 'The Mall',
         tag: 'PEER GUIDED SHOPPING.',
-        detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+        detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and React.js. Features the ability to import thousands of top brands products into one shopping site.',
       }
     };
   
