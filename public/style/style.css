@@ -149,7 +149,7 @@ body {
   height: 80px; }
 
 .hexagon {
-  background-color: #04C2C9;
+  background-color: #66ccef;
   height: 100%;
   width: calc(100% * 0.57735);
   display: inline-block; }
@@ -456,7 +456,7 @@ section {
     color: #666;
     height: 22px;
     position: relative;
-    background-color: #eee;
+    background-color: #fdeffd00;
     margin: 0 0 12px 0;
     align-items: flex-end;
     font-size: 7pt; }
@@ -486,14 +486,14 @@ section {
       top: 0;
       left: 0;
       position: absolute;
-      background-color: #00A1A7;
+      background-color: #56c7ea;
       padding: 0;
       opacity: 1; }
     section:nth-of-type(2) .bar .tag {
       top: 0;
       left: 0;
       position: absolute;
-      background-color: #04C2C9;
+      background-color: #20bbf1;
       color: #fff;
       height: 100%;
       width: 110px;
@@ -2136,7 +2136,7 @@ table th[class*="col-"] {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-#blog{
+#my_life{
   background-color: lightblue;
   padding: 70px 0;
   color: #616161; 
@@ -2201,7 +2201,7 @@ table th[class*="col-"] {
 .up-footer{
   height: 75px;
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   width: 100%;
   background-color: #252934;
   -webkit-clip-path: polygon(50% 100%, 100% 0, 100% 100%, 0 100%, 0 0);
@@ -2262,6 +2262,7 @@ ul li{
   transition: 1s cubic-bezier(0.65,-0.05, 0, 1.75);
   cursor: pointer;
   margin-left: -50px;
+  max-width: 450px;
 }
 
 ul li:nth-child(1){
@@ -2321,4 +2322,19 @@ ul li:hover{
   height: 100%;
   width: 100%;
   background-attachment: fixed;
+}
+.clickme{
+  animation: colorful 2s linear infinite;
+}
+
+@keyframes colorful{
+  0%{
+    color: rgb(43, 141, 233)
+  }
+  50%{
+    color: rgb(238, 68, 96);
+  }
+  100%{
+    color:  rgb(43, 141, 233)
+  }
 }
