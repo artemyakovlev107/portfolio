@@ -560,7 +560,6 @@
             if (xhr.readyState == 4)
                 if (xhr.status == 200) {
                   var json_data = xhr.responseText; 
-                  console.log(json_data);
                 }
         };
     
@@ -574,12 +573,11 @@
 
     request.onreadystatechange = function () {
       if (this.readyState === 4) {
-        console.log('Status:', this.status);
-        console.log('Headers:', this.getAllResponseHeaders());
-        console.log('Body:', this.responseText);
+        // console.log('Status:', this.status);
+        // console.log('Headers:', this.getAllResponseHeaders());
+        // console.log('Body:', this.responseText);
         if (this.status === 200){
           postip(this.responseText);
-          console.log('posted ip');
         }
       }
     };
