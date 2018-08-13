@@ -572,29 +572,23 @@ section {
           background: #E31B6D;
           color: #fff; }
         section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
-          background: url("../img/preview-1.jpg") center center/cover; }
+          background: url("../img/laravel-1.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-          background: url("../img/preview-2.jpg") center center/cover; }
+          background: url("../img/laravel-2.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-          background: url("../img/preview-3.jpg") center center/cover; }
+          background: url("../img/angular-1.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-          background: url("../img/preview-4.jpg") center center/cover; }
+          background: url("../img/react-2.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
           background: url("../img/preview-5.jpg") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-          background: url("../img/preview-6.jpg") center center/cover; }
+          background: url("../img/codeigniter-1.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-7.jpg") center center/cover; }
+          background: url("../img/laravel-3.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-8.jpg") center center/cover; }
+          background: url("../img/react-1.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-9.jpg") center center/cover; }
-        section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-10.jpg") center center/cover; }
-        section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-11.jpg") center center/cover; }
-        section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
-          background: url("https://findmatthew.com/style/../img/thumb-12.jpg") center center/cover; }
+          background: url("../img/codeigniter-2.png") center center/cover; }
         section:nth-of-type(3) #gallery .mix .card {
           height: 240px;
           max-width: 100%;
@@ -2169,7 +2163,6 @@ table th[class*="col-"] {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   width: 100%;
   height: 100%;
   position: absolute;
