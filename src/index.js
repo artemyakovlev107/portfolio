@@ -10,34 +10,34 @@ import registerServiceWorker from './registerServiceWorker';
 
 const userinfo ={
     name: "Alexander Patsaj",
-    comment: "I am a Senior Front-End, Back-End Developer."
+    comment: "I am a Senior Full Stack Front-End, Back-End Developer."
 }
 
 const whoamI = {
-    title: "I am senior backend, frontend developer.",
+    title: "I am senior full stack frontend, backend developer.",
     comment: "I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
 }
 
 const skilldetail = [
     {
         name:"React.js",
-        level:"80%"
+        level:"95%"
     }, 
     {
         name:"Angular",
-        level:"75%"
+        level:"90%"
     }, 
     {
         name:"Laravel",
-        level:"82%"
+        level:"92%"
+    }, 
+    {
+        name:"CodeIgniter",
+        level:"90%"
     }, 
     {
         name:"Node.js",
-        level:"70%"
-    }, 
-    {
-        name:"MongoDB",
-        level:"73%"
+        level:"80%"
     }, 
     {
         name:"Javascript",
@@ -45,19 +45,19 @@ const skilldetail = [
     }, 
     {
         name:"PHP",
-        level:"84%"
+        level:"95%"
     }, 
     {
         name:"WordPress",
-        level:"79%"
+        level:"92%"
     }, 
     {
         name:"Bootstrap",
-        level:"80%"
+        level:"100%"
     }, 
     {
         name:"CSS3",
-        level:"81%"
+        level:"90%"
     }, 
     {
         name:"HTML5",
@@ -65,7 +65,7 @@ const skilldetail = [
     }, 
 ];
 
-const overview= "I am a Senior Web Developer with over 6 years of experience in web development. I am capable of providing you the right choice of Technology Stack and their combination that your business needs. It’s an incredibly challenging task to find a really excellent developer as the technology advances and it is improving, so if you are in search of a candidate with an awesome experience you are on the right place no need to go further to see other options. I am capable of providing you the right choice of Technology Stack and their combination that your business needs. I am an enthusiastic Person interested to do things involved Research and Development to bring your ideas to life. And I will be looking forward to working with you on your projects regardless of the technologies involved. I believe that we should never stop learning!";
+const overview= "I am a Senior Full Stack Web Developer with over 6 years of experience in web development. I am capable of providing you the right choice of Technology Stack and their combination that your business needs. It’s an incredibly challenging task to find a really excellent developer as the technology advances and it is improving, so if you are in search of a candidate with an awesome experience you are on the right place no need to go further to see other options. I am capable of providing you the right choice of Technology Stack and their combination that your business needs. I am an enthusiastic Person interested to do things involved Research and Development to bring your ideas to life. And I will be looking forward to working with you on your projects regardless of the technologies involved. I believe that we should never stop learning!";
 const graduatedetail = [
     {
         name:"Vitebski Dzjaržauny Universitet imja P.M. Mašerova",

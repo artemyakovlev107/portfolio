@@ -8,7 +8,7 @@ const Collage = (props) =>{
                 return(
                     <div key={i.name}>
                         <span>{i.name}({i.from}~{i.to})<br/></span>
-                        <span>degree:{i.degree}</span><br/><br/>
+                        <span>Degree:{i.degree}</span><br/><br/>
                     </div>
                 )
             })
