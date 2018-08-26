@@ -9,7 +9,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 
 const userinfo ={
-    name: "Alexander Patsaj",
+    name: "Artem Yakovlev",
     comment: "I am a Senior Full Stack Front-End, Back-End Developer."
 }
 

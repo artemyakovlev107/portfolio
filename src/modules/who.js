@@ -4,7 +4,7 @@ class Who extends Component {
     render() {
         return (
           <div className="who_am_i">
-            <img alt="this is me" src="img/pmylife/me.png" className="mee"/>
+            <img alt="this is me" src="img/pmylife/me.jpg" className="mee"/>
             <div className="label bold">Who's this guy?</div>
             <div>
               <span>{this.props.title}</span><br/>

@@ -897,6 +897,7 @@ footer {
       section:nth-of-type(4) .thumb {
         height: 200px; }
     section:nth-of-type(5) form {
+      background-color: 
       min-width: 500px; } }
 @media screen and (min-width: 960px) {
   .waypoint {
@@ -2091,6 +2092,8 @@ table th[class*="col-"] {
 .mee{
   width:300px;
   height: auto;
+  -webkit-clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+  clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
 }
 
 .skype{

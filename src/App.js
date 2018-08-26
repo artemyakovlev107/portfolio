@@ -19,7 +19,6 @@ class App extends Component {
               <div className="page-link" dest="about">about</div>
               <div className="page-link" dest="portfolio">portfolio</div>
               <div className="page-link" dest="history">history</div>
-              <div className="page-link" dest="my_life">my life</div>
               <div className="page-link" dest="contact">contact</div>
             </div>
               <i className="fas fa-bars mdi-menu"></i>
